@@ -1,7 +1,9 @@
 # pinkprint
 
 announcing: pinkprint
+
 my open source protocol
+
 for princess maxing
 
 0. wake with the sun
