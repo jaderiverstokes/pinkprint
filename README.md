@@ -1,6 +1,5 @@
 # pinkprint
-![jaderiver_vitruvian_man_by_davinci_as_a_beautiful_woman_in_pink_bc757bdb-b0b8-4650-97ee-daf45a40e192](https://github.com/jaderiverstokes/pinkprint/assets/9206704/4c6dc0fb-143c-4e6f-b0b7-3746983b33a9)
-
+<img src="[image.jpg](https://github.com/jaderiverstokes/pinkprint/assets/9206704/4c6dc0fb-143c-4e6f-b0b7-3746983b33a9)" alt="pink print" style="width:50%;">
 announcing: pinkprint
 
 my open source protocol
@@ -25,3 +24,4 @@ for princess maxing
 0. black out room, eye mask, brown noise
 0. 10:30 head on pillow
 0. rejuvenate
+
