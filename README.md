@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>pinkprint</h1>
+  <h1 style="text-align:center;">pinkprint</h1>
   <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/4c6dc0fb-143c-4e6f-b0b7-3746983b33a9" alt="pink print" style="width:50%;"><br/>
   <b>announcing: pinkprint<br/>
   our open source protocol<br/>
