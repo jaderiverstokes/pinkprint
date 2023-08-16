@@ -25,6 +25,7 @@ mon)
 0. evening sups (garlic, kyolic garlic, NAC, omega 3, multivitamin with iron, hyaluronic acid, calcium alpha ketoglutarate)
 0. floss, brush teeth, tongue scraper
 0. evening facial moisturizer with hyaluronic acid
+0. topical minoxidil for hair growth
 0. black out room, eye mask, brown noise
 0. 10:30 head on pillow
 0. rejuvenate
