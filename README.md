@@ -6,6 +6,7 @@
   for princess maxing<br/></b>
 </p>
 
+# protocol
 
 0. wake with the sun
 0. capillus red light therapy for hair growth
@@ -27,3 +28,9 @@ mon)
 0. black out room, eye mask, brown noise
 0. 10:30 head on pillow
 0. rejuvenate
+
+# data
+
+0. resting heart rate 6 month average down 6bpm to 41bpm
+0. heart rate variability 6 month average up 17ms to 83ms
+0. heart rate reserve 6 month range up 20bpm to 32-210bpm
