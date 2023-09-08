@@ -16,7 +16,7 @@ mon)
 0. broad spectrum 50 spf mineral sunscreen
 0. 2.5 mile zone 2 run
 0. strength training (uphill backwards walk, oblique touches x 50, leg raises x 20, pushups 2 x 20, body weight squats 2 x 16)
-0. yoga (pidgeon pose, kneeling shin, slantboard hamstring stretch)
+0. yoga (pidgeon pose, kneeling shin, slantboard hamstring stretch, couch stretch)
 0. moisturizing lotion
 0. 30 spf facial moisturizing lotion
 0. first meal at noon
