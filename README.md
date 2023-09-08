@@ -21,7 +21,7 @@ mon)
 0. 30 spf facial moisturizing lotion
 0. first meal at noon
 0. second meal at 6pm
-0. evening sups (garlic, kyolic garlic, NAC, omega 3, multivitamin with iron, hyaluronic acid, calcium alpha ketoglutarate)
+0. evening sups (garlic, kyolic garlic, NAC, omega 3, hyaluronic acid, calcium alpha ketoglutarate)
 0. floss, brush teeth, tongue scraper
 0. evening facial moisturizer with hyaluronic acid
 0. topical minoxidil for hair growth
