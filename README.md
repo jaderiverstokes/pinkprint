@@ -32,6 +32,7 @@ mon)
 
 # data
 
+0. sleep score monthly average up 15 points to 98
 0. resting heart rate 6 month average down 6bpm to 41bpm
 0. heart rate variability 6 month average up 17ms to 83ms
 0. heart rate reserve 6 month range up 21bpm to 31-210bpm
