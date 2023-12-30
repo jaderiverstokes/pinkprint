@@ -11,7 +11,7 @@
 0. wake with the sun
 0. capillus red light therapy for hair growth
 0. zeroth meal: green giant (chlorella, collagen, creatine, cocoa, amino complex, cinnamon)
-0. morning sups (garlic, kyolic garlic, NAC, finasteride, cetirizine, beta keratin, bacillus coagulans, turmeric, ashwaganda)
+0. morning sups (garlic, kyolic garlic, ginger root, turmeric, NAC, finasteride, cetirizine, beta keratin, bacillus coagulans, ashwaganda)
 0. broad spectrum 50 spf mineral sunscreen
 0. 2.5 mile zone 2 run
 0. 4 x 4 minutes high intensity interval training (once per week)
@@ -21,7 +21,7 @@
 0. 30 spf facial moisturizing lotion
 0. first meal at noon
 0. second meal at 6pm
-0. evening sups (garlic, kyolic garlic, NAC, omega 3, hyaluronic acid, calcium alpha ketoglutarate)
+0. evening sups (garlic, kyolic garlic, ginger root, turmeric, NAC, omega 3, hyaluronic acid, calcium alpha ketoglutarate)
 0. floss, brush teeth, tongue scraper
 0. evening facial moisturizer with hyaluronic acid
 0. topical minoxidil for hair growth
