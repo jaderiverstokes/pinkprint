@@ -31,7 +31,7 @@
 
 # data
 
-0. VO2max up 15 mls/kg/min to 64.6 (12 minute run test)
+0. VO2max up 19 mls/kg/min to 68.2 (12 minute run test)
 0. sleep score monthly average up 15 points to 98
 0. resting heart rate 6 month average down 6bpm to 41bpm
 0. heart rate variability 6 month average up 17ms to 83ms
