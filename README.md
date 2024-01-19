@@ -15,7 +15,7 @@
 0. broad spectrum 50 spf mineral sunscreen
 0. 2.5 mile zone 2 run
 0. 4 x 4 minutes high intensity interval training (once per week)
-0. strength training (uphill backwards walk 3min, oblique touches x 50, leg raises x 40, pushups 2 x 30, slant board squats 15 lb dumbells 2 x 16, band face pull 1 x 15, band pull apart 1 x 15, superman 2 x 16, tib raises x 25)
+0. strength training (uphill backwards walk 3min, oblique touches x 50, leg raises x 46, pushups 2 x 30, slant board squats 20 lb dumbells 2 x 16, band face pull 1 x 15, band pull apart 1 x 15, superman x 20, tib raises x 25)
 0. yoga (kneeling shin, toe stretch, slantboard calf stretch, slantboard hamstring stretch 20 lb, pidgeon pose, couch stretch)
 0. moisturizing lotion
 0. 30 spf facial moisturizing lotion
