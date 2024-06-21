@@ -14,8 +14,8 @@
 0. morning sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride)
 0. zone 2 training
 0. vo2 max/threshold training (3 x per week)
-0. strength training (uphill backwards walk 3min, oblique touches x 50, leg raises x 50, pushups 2 x 30, slant board squats 20 lb dumbells 2 x 16, band face pull 1 x 15, band pull apart 1 x 15, 1 leg body weight calf raises x 15, exercise ball hamstring curl 1 x 10, superman x 20, tib raises x 25)
-0. yoga (kneeling shin, toe stretch, slantboard calf stretch, slantboard hamstring stretch 20 lb, pidgeon pose, couch stretch)
+0. strength training (uphill backwards walk 3min, oblique touches x 50, leg raises x 50, pushupsx 60, slant board squats 30 lb dumbells x 15, band pull apart x 15, band face pull x 15, 1 leg body weight calf raises x 20, exercise ball hamstring curl x 15, back hypertension x 20, tib raises x 25)
+0. yoga (kneeling shin, toe stretch, slantboard hamstring stretch 20 lb, pidgeon pose, couch stretch)
 0. moisturizing lotion
 0. 30 spf facial moisturizing lotion
 0. first meal at noon
