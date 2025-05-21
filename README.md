@@ -22,7 +22,8 @@
 0. second meal at 6pm
 0. evening sups (essential capsule, NAC ginger curcumin, red yeast rice garlic)
 0. floss, brush teeth, tongue scraper
-0. evening facial moisturizer with hyaluronic acid
+0. evening facial moisturizer
+0. facial tretinoin
 0. topical minoxidil for hair growth
 0. black out room, eye mask, brown noise
 0. 10:30 head on pillow
