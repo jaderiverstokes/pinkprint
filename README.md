@@ -14,7 +14,7 @@
 0. morning sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride)
 0. zone 2 training
 0. vo2 max/threshold training (3 x per week)
-0. strength training (uphill backwards walk 3min, oblique touches x 50, leg raises x 50, pushupsx 60, slant board squats 30 lb dumbells x 15, band pull apart x 15, band face pull x 15, 1 leg body weight calf raises x 20, exercise ball hamstring curl x 15, back hypertension x 20, tib raises x 25)
+0. strength training (uphill backwards walk 3min, decline deficit pushups  x 30, slant board deadlift 52.5 lb dumbells x 25, weighted pullups 15 lb dumbbell x 15)
 0. yoga (kneeling shin, toe stretch, slantboard hamstring stretch 20 lb, pidgeon pose, couch stretch)
 0. moisturizing lotion
 0. 30 spf facial moisturizing lotion
@@ -31,6 +31,7 @@
 # data
 
 0. VO2max up 20 mls/kg/min to 69.8 ([12 minute run test](https://strava.app.link/xdM5YHfTrGb))
+0. hsCRP: undetectable
 0. sleep score monthly average up 15 points to 98
 0. resting heart rate 6 month average down 6bpm to 41bpm
 0. heart rate variability 6 month average up 17ms to 83ms
