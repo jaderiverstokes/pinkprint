@@ -11,7 +11,7 @@
 0. wake with the sun
 0. capillus red light therapy for hair growth
 0. zeroth meal: nutty pudding + longevity mix
-0. morning sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride)
+0. sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride, red yeast rice garlic, omega 3, ashwaganda)
 0. zone 2 training
 0. vo2 max/threshold training (3 x per week)
 0. strength training (uphill backwards walk 3min, decline deficit pushups  x 30, slant board deadlift 52.5 lb dumbells x 25, weighted pullups 15 lb dumbbell x 15)
@@ -20,7 +20,6 @@
 0. 30 spf facial moisturizing lotion
 0. first meal at noon
 0. second meal at 6pm
-0. evening sups (essential capsule, NAC ginger curcumin, red yeast rice garlic)
 0. floss, brush teeth, tongue scraper
 0. evening facial moisturizer
 0. facial tretinoin
