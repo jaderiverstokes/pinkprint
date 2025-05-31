@@ -52,7 +52,7 @@
 </div>
 
 <div class="card">
-<h2>stuff i use (affiliate links)</h2>
+<h2>stuff i use (affiliates)</h2>
 <ol start="0">
   <li><a href="https://amzn.to/3SwoUYP" target="_blank">capillus red light therapy cap</a></li>
   <li><a href="https://amzn.to/4dEr5mJ" target="_blank">blueprint supplements</a></li>
