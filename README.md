@@ -1,18 +1,19 @@
 <h1 style="text-align:center;">pinkprint</h1>
 
 <p style="text-align: center;">
-  <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a" 
-       alt="pink print" 
-       style="width: 20%;"><br/>
+
+  <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a"
+       alt="pink print"
+       style="width: 33%; border-radius: 1em;"><br/>
   <b>
     announcing: pinkprint<br/>
-    our open source protocol<br/>
+    an open source protocol<br/>
     for princess maxing<br/>
   </b>
 </p>
 
 <h2>protocol</h2>
-<ol>
+<ol start="0">
   <li>wake with the sun</li>
   <li>capillus red light therapy for hair growth</li>
   <li>zeroth meal: nutty pudding + longevity mix</li>
@@ -35,17 +36,17 @@
 </ol>
 
 <h2>data</h2>
-<ol>
+<ul>
   <li>VO<sub>2</sub>max up 20 mls/kg/min to 69.8 (<a href="https://strava.app.link/xdM5YHfTrGb" target="_blank">12 minute run test</a>)</li>
   <li>hsCRP: undetectable</li>
   <li>sleep score monthly average up 15 points to 98</li>
   <li>resting heart rate 6 month average down 6bpm to 41bpm</li>
   <li>heart rate variability 6 month average up 17ms to 83ms</li>
   <li>heart rate reserve 6 month range up 21bpm to 31–210bpm</li>
-</ol>
+</ul>
 
 <h2>stuff i use (affiliate links)</h2>
-<ol>
+<ul>
   <li><a href="https://amzn.to/3SwoUYP" target="_blank">capillus red light therapy cap</a></li>
   <li><a href="https://amzn.to/4dEr5mJ" target="_blank">blueprint supplements</a></li>
   <li><a href="https://amzn.to/458ceyZ" target="_blank">creatine</a></li>
@@ -54,4 +55,4 @@
   <li><a href="https://amzn.to/4mAVuq9" target="_blank">slant board</a></li>
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">elta md sunscreen</a></li>
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">minoxidil</a></li>
-</ol>
+</ul>
