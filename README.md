@@ -3,34 +3,35 @@
   <ol start="0">
     <li>wake with the sun</li>
     <li>capillus red light therapy for hair growth <sup><a href="https://amzn.to/3SwoUYP" target="_blank">0</a></sup></li>
-    <li>zeroth meal: nutty pudding, longevity mix<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup></li>, creatine <sup><a href="https://amzn.to/458ceyZ" target="_blank">2</a></sup>
+    <li>zeroth meal: nutty pudding, longevity mix<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup>, creatine<sup><a href="https://amzn.to/458ceyZ" target="_blank">2</a></sup>
+    </li>
     <li>
       sups (
       essential capsule, essential softgel, NAC ginger curcumin, red yeast rice garlic<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup>,
       cetirizine, finasteride, omega 3,
-      ashwaganda <sup><a href="https://amzn.to/3FA4FGH" target="_blank">3</a></sup>)
+      ashwaganda<sup><a href="https://amzn.to/3FA4FGH" target="_blank">3</a></sup>)
     </li>
     <li>zone 2 training</li>
     <li>vo2 max/threshold training (3× per week)</li>
     <li>
       strength training (uphill backwards walk 3min,
       bench press 135 lb 3×5,
-      slant board<sup><a href="https://amzn.to/4jmIKR7" target="_blank">4</a></sup> deadlift 52.5 lb dumbbells<sup><a href="https://amzn.to/4jmIKR7", target="_blank">5</a></sup> × 25 ,
+      slant board<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup> deadlift 52.5 lb dumbbells<sup><a href="https://amzn.to/4jmIKR7" target="_blank">5</a></sup> × 25,
       weighted pullups 15 lb dumbbell × 15)
     </li>
     <li>
       yoga (kneeling shin, toe stretch,
-      slantboard hamstring stretch 20 lb <sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup>,
+      slantboard hamstring stretch 20 lb<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup>,
       pigeon pose, couch stretch)
     </li>
     <li>moisturizing lotion</li>
-    <li>30 spf facial moisturizing lotion <sup><a href="https://amzn.to/4jwDzhL" target="_blank">6</a></sup></li>
+    <li>46 spf facial moisturizing lotion<sup><a href="https://amzn.to/4jwDzhL" target="_blank">6</a></sup></li>
     <li>first meal at noon</li>
     <li>second meal at 6pm</li>
     <li>floss, brush teeth, tongue scraper</li>
     <li>evening facial moisturizer</li>
     <li>facial tretinoin</li>
-    <li>topical minoxidil for hair growth <sup><a href="https://amzn.to/4jwDzhL" target="_blank">7</a></sup></li>
+    <li>topical minoxidil for hair growth<sup><a href="https://amzn.to/4mGOwA2" target="_blank">7</a></sup></li>
     <li>black out room, eye mask, brown noise</li>
     <li>10:30 head on pillow</li>
     <li>rejuvenate</li>
@@ -59,6 +60,6 @@
   <li><a href="https://amzn.to/4mAVuq9" target="_blank">slant board</a></li>
   <li><a href="https://amzn.to/4jmIKR7" target="_blank">bowflex adjustable dumbbells</a></li>
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">elta md sunscreen</a></li>
-  <li><a href="https://amzn.to/4jwDzhL" target="_blank">minoxidil</a></li>
+  <li><a href="https://amzn.to/4mGOwA2" target="_blank">minoxidil</a></li>
 </ul>
 </div>
