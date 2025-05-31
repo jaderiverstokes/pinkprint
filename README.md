@@ -1,7 +1,5 @@
 <h1 style="text-align:center;">pinkprint</h1>
-
 <p style="text-align: center;">
-
   <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a"
        alt="pink print"
        style="width: 33%; border-radius: 1em;">
@@ -11,10 +9,9 @@
     for princess maxing<br/>
   </b>
 </p>
-<br/>
 
-<h2>protocol</h2>
 <div class="card">
+<h2>protocol</h2>
 <ol start="0">
   <li>wake with the sun</li>
   <li>capillus red light therapy for hair growth</li>
@@ -38,8 +35,8 @@
 </ol>
 </div>
 
-<h2>data</h2>
 <div class="card">
+<h2>data</h2>
 <ul>
   <li>VO<sub>2</sub>max up 20 mls/kg/min to 69.8 (<a href="https://strava.app.link/xdM5YHfTrGb" target="_blank">12 minute run test</a>)</li>
   <li>hsCRP: undetectable</li>
@@ -50,8 +47,8 @@
 </ul>
 </div>
 
-<h2>stuff i use (affiliate links)</h2>
 <div class="card">
+<h2>stuff i use (affiliate links)</h2>
 <ul>
   <li><a href="https://amzn.to/3SwoUYP" target="_blank">capillus red light therapy cap</a></li>
   <li><a href="https://amzn.to/4dEr5mJ" target="_blank">blueprint supplements</a></li>
