@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">pinkprint</h1>
 <p align="center">
-  <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a" alt="pink print" style="width:33%;"><br/>
+  <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a" alt="pink print" style="width:20%;"><br/>
   <b>announcing: pinkprint<br/>
   our open source protocol<br/>
   for princess maxing<br/></b>
