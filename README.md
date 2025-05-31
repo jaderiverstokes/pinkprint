@@ -53,7 +53,7 @@
 
 <div class="card">
 <h2>stuff i use (affiliate links)</h2>
-<ul>
+<ol start="0">
   <li><a href="https://amzn.to/3SwoUYP" target="_blank">capillus red light therapy cap</a></li>
   <li><a href="https://amzn.to/4dEr5mJ" target="_blank">blueprint supplements</a></li>
   <li><a href="https://amzn.to/458ceyZ" target="_blank">creatine</a></li>
@@ -62,5 +62,5 @@
   <li><a href="https://amzn.to/4jmIKR7" target="_blank">bowflex adjustable dumbbells</a></li>
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">elta md sunscreen</a></li>
   <li><a href="https://amzn.to/4mGOwA2" target="_blank">minoxidil</a></li>
-</ul>
+</ol>
 </div>
