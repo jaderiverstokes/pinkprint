@@ -1,46 +1,57 @@
 <h1 style="text-align:center;">pinkprint</h1>
-<p align="center">
-  <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a" alt="pink print" style="width:20%;"><br/>
-  <b>announcing: pinkprint<br/>
-  our open source protocol<br/>
-  for princess maxing<br/></b>
+
+<p style="text-align: center;">
+  <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a" 
+       alt="pink print" 
+       style="width: 20%;"><br/>
+  <b>
+    announcing: pinkprint<br/>
+    our open source protocol<br/>
+    for princess maxing<br/>
+  </b>
 </p>
 
-### protocol
-0. wake with the sun
-0. capillus red light therapy for hair growth
-0. zeroth meal: nutty pudding + longevity mix
-0. sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride, red yeast rice garlic, omega 3, ashwaganda)
-0. zone 2 training
-0. vo2 max/threshold training (3 x per week)
-0. strength training (uphill backwards walk 3min, bench press 135 lb 3x5, slant board deadlift 52.5 lb dumbells x 25, weighted pullups 15 lb dumbbell x 15)
-0. yoga (kneeling shin, toe stretch, slantboard hamstring stretch 20 lb, pidgeon pose, couch stretch)
-0. moisturizing lotion
-0. 30 spf facial moisturizing lotion
-0. first meal at noon
-0. second meal at 6pm
-0. floss, brush teeth, tongue scraper
-0. evening facial moisturizer
-0. facial tretinoin
-0. topical minoxidil for hair growth
-0. black out room, eye mask, brown noise
-0. 10:30 head on pillow
-0. rejuvenate
+<h2>protocol</h2>
+<ol>
+  <li>wake with the sun</li>
+  <li>capillus red light therapy for hair growth</li>
+  <li>zeroth meal: nutty pudding + longevity mix</li>
+  <li>sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride, red yeast rice garlic, omega 3, ashwaganda)</li>
+  <li>zone 2 training</li>
+  <li>vo2 max/threshold training (3× per week)</li>
+  <li>strength training (uphill backwards walk 3min, bench press 135 lb 3×5, slant board deadlift 52.5 lb dumbbells × 25, weighted pullups 15 lb dumbbell × 15)</li>
+  <li>yoga (kneeling shin, toe stretch, slantboard hamstring stretch 20 lb, pigeon pose, couch stretch)</li>
+  <li>moisturizing lotion</li>
+  <li>30 spf facial moisturizing lotion</li>
+  <li>first meal at noon</li>
+  <li>second meal at 6pm</li>
+  <li>floss, brush teeth, tongue scraper</li>
+  <li>evening facial moisturizer</li>
+  <li>facial tretinoin</li>
+  <li>topical minoxidil for hair growth</li>
+  <li>black out room, eye mask, brown noise</li>
+  <li>10:30 head on pillow</li>
+  <li>rejuvenate</li>
+</ol>
 
-### data
-0. VO2max up 20 mls/kg/min to 69.8 ([12 minute run test](https://strava.app.link/xdM5YHfTrGb))
-0. hsCRP: undetectable
-0. sleep score monthly average up 15 points to 98
-0. resting heart rate 6 month average down 6bpm to 41bpm
-0. heart rate variability 6 month average up 17ms to 83ms
-0. heart rate reserve 6 month range up 21bpm to 31-210bpm
+<h2>data</h2>
+<ol>
+  <li>VO<sub>2</sub>max up 20 mls/kg/min to 69.8 (<a href="https://strava.app.link/xdM5YHfTrGb" target="_blank">12 minute run test</a>)</li>
+  <li>hsCRP: undetectable</li>
+  <li>sleep score monthly average up 15 points to 98</li>
+  <li>resting heart rate 6 month average down 6bpm to 41bpm</li>
+  <li>heart rate variability 6 month average up 17ms to 83ms</li>
+  <li>heart rate reserve 6 month range up 21bpm to 31–210bpm</li>
+</ol>
 
-### stuff i use (affiliate links)
-0. [capillus red light therapy cap](https://amzn.to/3SwoUYP)
-0. [blueprint supplements](https://amzn.to/4dEr5mJ)
-0. [creatine](https://amzn.to/458ceyZ)
-0. [ashwagandha](https://amzn.to/3FA4FGH)
-0. [bowflex adjustable dumbbells](https://amzn.to/4jmIKR7)
-0. [slant board](https://amzn.to/4mAVuq9)
-0. [elta md sunscreen](https://amzn.to/4jwDzhL)
-0. [minoxidil](https://amzn.to/4jwDzhL)
+<h2>stuff i use (affiliate links)</h2>
+<ol>
+  <li><a href="https://amzn.to/3SwoUYP" target="_blank">capillus red light therapy cap</a></li>
+  <li><a href="https://amzn.to/4dEr5mJ" target="_blank">blueprint supplements</a></li>
+  <li><a href="https://amzn.to/458ceyZ" target="_blank">creatine</a></li>
+  <li><a href="https://amzn.to/3FA4FGH" target="_blank">ashwagandha</a></li>
+  <li><a href="https://amzn.to/4jmIKR7" target="_blank">bowflex adjustable dumbbells</a></li>
+  <li><a href="https://amzn.to/4mAVuq9" target="_blank">slant board</a></li>
+  <li><a href="https://amzn.to/4jwDzhL" target="_blank">elta md sunscreen</a></li>
+  <li><a href="https://amzn.to/4jwDzhL" target="_blank">minoxidil</a></li>
+</ol>
