@@ -16,7 +16,7 @@
 0. sups (essential capsule, essential softgel, NAC ginger curcumin, cetirizine, finasteride, red yeast rice garlic, omega 3, ashwaganda)
 0. zone 2 training
 0. vo2 max/threshold training (3 x per week)
-0. strength training (uphill backwards walk 3min, decline deficit pushups  x 30, slant board deadlift 52.5 lb dumbells x 25, weighted pullups 15 lb dumbbell x 15)
+0. strength training (uphill backwards walk 3min, bench press 135 lb 3x5, slant board deadlift 52.5 lb dumbells x 25, weighted pullups 15 lb dumbbell x 15)
 0. yoga (kneeling shin, toe stretch, slantboard hamstring stretch 20 lb, pidgeon pose, couch stretch)
 0. moisturizing lotion
 0. 30 spf facial moisturizing lotion
