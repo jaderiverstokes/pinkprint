@@ -3,13 +3,14 @@
   <ol start="0">
     <li>wake with the sun</li>
     <li>capillus red light therapy for hair growth <sup><a href="https://amzn.to/3SwoUYP" target="_blank">0</a></sup></li>
-    <li>zeroth meal: nutty pudding, longevity mix<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup>, creatine<sup><a href="https://amzn.to/458ceyZ" target="_blank">2</a></sup>
+    <li>zeroth meal: nutty pudding, longevity mix<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup>
     </li>
     <li>
-      sups (
+      supplements (
       essential capsule, essential softgel, NAC ginger curcumin, red yeast rice garlic<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup>,
-      cetirizine, finasteride, omega 3,
-      ashwaganda<sup><a href="https://amzn.to/3FA4FGH" target="_blank">3</a></sup>)
+      creatine<sup><a href="https://amzn.to/458ceyZ" target="_blank">2</a></sup>,
+      ashwaganda<sup><a href="https://amzn.to/3FA4FGH" target="_blank">3</a></sup>,
+      cetirizine, finasteride, omega 3)
     </li>
     <li>zone 2 training</li>
     <li>vo2 max/threshold training (3× per week)</li>
@@ -21,7 +22,7 @@
     </li>
     <li>
       yoga (kneeling shin, toe stretch,
-      slantboard hamstring stretch 20 lb<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup>,
+      slantboard hamstring stretch 20 lb,
       pigeon pose, couch stretch)
     </li>
     <li>moisturizing lotion</li>
