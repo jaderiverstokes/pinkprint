@@ -14,6 +14,7 @@
 <br/>
 
 <h2>protocol</h2>
+<div class="card">
 <ol start="0">
   <li>wake with the sun</li>
   <li>capillus red light therapy for hair growth</li>
@@ -35,8 +36,10 @@
   <li>10:30 head on pillow</li>
   <li>rejuvenate</li>
 </ol>
+</div>
 
 <h2>data</h2>
+<div class="card">
 <ul>
   <li>VO<sub>2</sub>max up 20 mls/kg/min to 69.8 (<a href="https://strava.app.link/xdM5YHfTrGb" target="_blank">12 minute run test</a>)</li>
   <li>hsCRP: undetectable</li>
@@ -45,8 +48,10 @@
   <li>heart rate variability 6 month average up 17ms to 83ms</li>
   <li>heart rate reserve 6 month range up 21bpm to 31–210bpm</li>
 </ul>
+</div>
 
 <h2>stuff i use (affiliate links)</h2>
+<div class="card">
 <ul>
   <li><a href="https://amzn.to/3SwoUYP" target="_blank">capillus red light therapy cap</a></li>
   <li><a href="https://amzn.to/4dEr5mJ" target="_blank">blueprint supplements</a></li>
@@ -57,3 +62,4 @@
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">elta md sunscreen</a></li>
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">minoxidil</a></li>
 </ul>
+</div>

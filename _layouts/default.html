@@ -6,59 +6,82 @@
     <title>Jade River Stokes</title>
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <style>
-      body {
-        font-family: sans-serif;
-        margin: 0;
-        padding: 1em;
-        background-color: #fff0f8;
-        color: #333;
-      }
+    :root {
+      --pink: #ffb3d9;
+      --rose: #ffe0ef;
+      --lavender: #f6e6ff;
+      --ink: #333;
+      --accent: #d63384;
+      --sans: 'Segoe UI', sans-serif;
+    }
 
-      h1, h2 {
-        text-align: center;
-        color: #d63384;
-      }
+    body {
+      font-family: var(--sans);
+      margin: 0;
+      padding: 1em;
+      background: linear-gradient(to bottom, var(--rose), var(--lavender));
+      color: var(--ink);
+    }
 
-      p, ol, ul {
-        max-width: 600px;
-        margin: 1em auto;
-        line-height: 1.6;
-      }
+    h1, h2 {
+      text-align: center;
+      color: var(--accent);
+      text-shadow: 1px 1px 2px white;
+    }
 
-      img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 0 auto 1em auto;
-        border-radius: 1em;
-      }
+    h1 {
+      font-size: 2.5em;
+      margin-top: 0.5em;
+    }
 
-      b {
-        display: block;
-        text-align: center;
-        margin-top: 0.5em;
-        font-size: 1.1em;
-      }
+    h2 {
+      margin-top: 2em;
+      font-size: 1.5em;
+    }
 
-      ol, ul {
-        padding-left: 1.2em;
-        max-width: 600px;
-        margin: 1em auto;
-        line-height: 1.6;
-      }
+    .card {
+      max-width: 600px;
+      margin: 1em auto;
+      background: white;
+      padding: 1.5em 1.8em 1.5em 2.2em; /* enough padding for bullets/numbers */
+      border-radius: 1em;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      line-height: 1.6;
+    }
 
-      ol li, ul li {
-        margin-bottom: 0.5em;
-      }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 1em;
+      border-radius: 1em;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
 
-      a {
-        color: #d63384;
-        text-decoration: none;
-      }
+    b {
+      display: block;
+      text-align: center;
+      font-size: 1.2em;
+      color: var(--accent);
+    }
 
-      a:hover {
-        text-decoration: underline;
-      }
+    ol, ul {
+      padding-left: 1em;
+    }
+
+    ol li, ul li {
+      margin-bottom: 0.6em;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
     </style>
 </head>
 <body style="font-family: sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; line-height: 1.6;">
