@@ -4,13 +4,14 @@
 
   <img src="https://github.com/jaderiverstokes/pinkprint/assets/9206704/860f8b71-97f9-4602-9237-1f19ef29cc4a"
        alt="pink print"
-       style="width: 33%; border-radius: 1em;"><br/>
+       style="width: 33%; border-radius: 1em;">
   <b>
     announcing: pinkprint<br/>
     an open source protocol<br/>
     for princess maxing<br/>
   </b>
 </p>
+<br/>
 
 <h2>protocol</h2>
 <ol start="0">
