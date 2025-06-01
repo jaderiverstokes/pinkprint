@@ -14,7 +14,7 @@
 <h2>protocol</h2>
   <ol start="0">
     <li>wake with the sun</li>
-    <li>capillus red light therapy for hair growth <sup><a href="https://amzn.to/3SwoUYP" target="_blank">0</a></sup></li>
+    <li>capillus red light therapy for hair growth<sup><a href="https://amzn.to/3SwoUYP" target="_blank">0</a></sup></li>
     <li>zeroth meal: nutty pudding, longevity mix<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a></sup>
     </li>
     <li>
