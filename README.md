@@ -2,7 +2,7 @@
 <p style="text-align: center;">
   <img src="./images/logo.png"
        alt="pink print"
-       style="aspect-ratio: 1 / 1; width: 100%; max-width: 200px; border-radius: 1em; display: block; margin: 0 auto 1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+       style="aspect-ratio: 1 / 1; width: 200px; max-width: 200px; border-radius: 1em; display: block; margin: 0 auto 1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
   />
   <b>
     announcing: pinkprint<br/>
