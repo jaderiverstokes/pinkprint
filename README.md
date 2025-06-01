@@ -34,7 +34,7 @@
     <li>facial tretinoin</li>
     <li>topical minoxidil for hair growth<sup><a href="https://amzn.to/4mGOwA2" target="_blank">7</a></sup></li>
     <li>black out room, eye mask, brown noise</li>
-    <li>10:30 head on pillow</li>
+    <li>10:30 head on pillow eight sleep<sup><a href="https://refer.eight.sl/f46ntp45" target="_blank">8</a></sup></li>
     <li>rejuvenate</li>
   </ol>
 </div>
@@ -62,5 +62,6 @@
   <li><a href="https://amzn.to/4jmIKR7" target="_blank">bowflex adjustable dumbbells</a></li>
   <li><a href="https://amzn.to/4jwDzhL" target="_blank">elta md sunscreen</a></li>
   <li><a href="https://amzn.to/4mGOwA2" target="_blank">minoxidil</a></li>
+  <li><a href="https://refer.eight.sl/f46ntp45" target="_blank">eight sleep</a></li>
 </ol>
 </div>
