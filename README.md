@@ -4,11 +4,6 @@
        alt="pink print"
        style="aspect-ratio: 1 / 1; width: 200px; max-width: 200px; border-radius: 1em; display: block; margin: 0 auto 1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
   /><br/>
-  <b>
-    announcing: pinkprint<br/>
-    an open source protocol<br/>
-    for princess maxing<br/>
-  </b>
 </p>
 <div class="card">
 <h2>protocol</h2>
