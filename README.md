@@ -24,7 +24,7 @@
     <li>
       strength training (uphill backwards walk 3min,
       bench press 145 lb 5×5,
-      slant board<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup> deadlift 52.5 lb dumbbells<sup><a href="https://amzn.to/4jmIKR7" target="_blank">5</a></sup> 5×5,
+      slant board<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup> suitcase squats 52.5 lb dumbbells<sup><a href="https://amzn.to/4jmIKR7" target="_blank">5</a></sup> 5×5,
       weighted pullups 7.5 lb dumbbell 5×5)
     </li>
     <li>
