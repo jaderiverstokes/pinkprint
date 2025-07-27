@@ -34,7 +34,8 @@
     </li>
     <li>moisturizing lotion</li>
     <li>46 spf facial moisturizing lotion<sup><a href="https://amzn.to/4jwDzhL" target="_blank">6</a></sup></li>
-    <li>first meal at noon</li>
+    <li>first meal at noon: super veggie</li>
+    <li>snack: smoothie with 2 scoops of metabolic protein<sup><a href="https://amzn.to/4dEr5mJ" target="_blank">1</a>, berries, chia seeds</li>
     <li>second meal at 6pm</li>
     <li>floss, brush teeth, tongue scraper</li>
     <li>evening facial moisturizer</li>
