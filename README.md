@@ -3,12 +3,7 @@
   <img src="./images/logo.png"
        alt="pink print"
        style="aspect-ratio: 1 / 1; width: 200px; max-width: 200px; border-radius: 1em; display: block; margin: 0 auto 1em; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
-  /><br/>
-  <b>
-    announcing: pinkprint<br/>
-    an open source protocol<br/>
-    for princess maxing<br/>
-  </b>
+  />
 </p>
 <div class="card">
 <h2>protocol</h2>
@@ -28,9 +23,9 @@
     <li>vo2 max/threshold training (3× per week)</li>
     <li>
       strength training (uphill backwards walk 3min,
-      bench press 135 lb 3×5,
-      slant board<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup> deadlift 52.5 lb dumbbells<sup><a href="https://amzn.to/4jmIKR7" target="_blank">5</a></sup> × 25,
-      weighted pullups 15 lb dumbbell × 15)
+      bench press 145 lb 5×5,
+      slant board<sup><a href="https://amzn.to/4mAVuq9" target="_blank">4</a></sup> suitcase squats 52.5 lb dumbbells<sup><a href="https://amzn.to/4jmIKR7" target="_blank">5</a></sup> 5×5,
+      weighted pullups 7.5 lb dumbbell 5×5)
     </li>
     <li>
       yoga (kneeling shin, toe stretch,
