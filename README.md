@@ -52,6 +52,7 @@
 <ul>
   <li>VO<sub>2</sub>max up 20 mls/kg/min to 69.8 (<a href="https://strava.app.link/xdM5YHfTrGb" target="_blank">12 minute run test</a>)</li>
   <li>hsCRP: undetectable</li>
+  <li>HbA1c: 5.2%</li>
   <li>sleep score monthly average up 15 points to 98</li>
   <li>resting heart rate 6 month average down 6bpm to 41bpm</li>
   <li>heart rate variability 6 month average up 17ms to 83ms</li>
