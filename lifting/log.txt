@@ -703,7 +703,7 @@ jade
 
 10/9
 carissa
-25lb shoulder press: 2,2,2,1,
+25lb shoulder press: 2,2,2,1,2
 
 jade
-65lb shoulder press: 5,5,3
+65lb shoulder press: 5,5,3,
