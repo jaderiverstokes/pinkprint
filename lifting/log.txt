@@ -720,7 +720,7 @@ jade
  10/14 jade
 50lb db rdl: 5,5,5,5,5
 
-10/14 jade 50lb pull-ups: 5,5,5,5,
+10/14 jade 50lb pull-ups: 5,5,5,5,4
 
 10/16
 jade
