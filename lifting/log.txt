@@ -745,9 +745,13 @@ jade
 
 10/29
 jade
-52.5lb db rdl: 5,5,5,5,5  10/30 jade 52.5lb pull-ups: 5,5,5,4,3
+52.5lb db rdl: 5,5,5,5,5  
+
+10/30
+ jade
+ 52.5lb pull-ups: 5,5,5,4,3
 
 11/1
 jade
 65lb shoulder press: 4,3,
-60lb: 4,2
+60lb: 4,
